@@ -1,0 +1,10 @@
+solera\todoList\TodoListApplication.class
+solera\todoList\controller\TaskController.class
+solera\todoList\entity\Person.class
+solera\todoList\entity\Task.class
+solera\todoList\config\SecurityConfiguration.class
+solera\todoList\service\PersonService.class
+solera\todoList\service\TaskService.class
+solera\todoList\controller\PersonController.class
+solera\todoList\repository\PersonRepository.class
+solera\todoList\repository\TaskRepository.class
